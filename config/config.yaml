@@ -1,0 +1,6 @@
+llm:
+  groq:
+    provider: "groq"
+    model: "groq-llama-3.1-70b"
+
+  
